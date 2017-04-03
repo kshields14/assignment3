@@ -1,1 +1,22 @@
 /*styles for assignment 3*/
+html
+{
+  background-color: #fee2ff;
+}
+
+div#kait
+{
+  font-weight: bold;
+}
+
+div
+{
+  font-family: "Lucida Sans";
+}
+
+h1
+{
+  color: purple;
+  font-family: "Lucida Sans";
+  font-weight: bold;
+}
